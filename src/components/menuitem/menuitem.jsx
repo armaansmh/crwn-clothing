@@ -20,6 +20,7 @@ const MenuItem = ({ title, subtitle, imageUrl, size, linkUrl }) => {
       <span className="subtitle">{subtitle}</span>
     </div>
   </div>
+  
 };
 
 export default MenuItem;
