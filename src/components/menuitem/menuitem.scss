@@ -42,9 +42,10 @@
         align-items: center;
         justify-content: center;
         position: absolute;
-        background-color: rgba($color: #ffffff, $alpha: 0.6);
+        background-color: white;
         padding: 0 25px;
         height: 130px;
+        opacity: 0.8;
         .title {
             font-weight: bolder;
             color: #4a4a4a;
